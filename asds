@@ -1,0 +1,23 @@
+[33mcommit a0bdc1bf16071b6402158bf91ff19af5202576e6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Paul Perez <jeffertsap@hotmail.com>
+Date:   Sat Feb 3 01:04:06 2024 -0500
+
+    añadi un main
+
+[33mcommit 46c6def59824c4da9ed4b655a94170ac55da19d7[m
+Author: Paul Perez <jeffertsap@hotmail.com>
+Date:   Sat Feb 3 00:50:33 2024 -0500
+
+    rellene datos de el footer
+
+[33mcommit 83f6b2ecf864539e715733501a9aa29a4b66d3a4[m
+Author: Paul Perez <jeffertsap@hotmail.com>
+Date:   Sat Feb 3 00:16:46 2024 -0500
+
+    estructura parcialmente completada de header y footer
+
+[33mcommit 98454f5f12aad0e27194707ee29b0324e8503c97[m
+Author: Paul Perez <jeffertsap@hotmail.com>
+Date:   Sat Feb 3 00:15:58 2024 -0500
+
+    estructura basica de header y footer
